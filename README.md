@@ -4,10 +4,6 @@
 
 ## Project screenshots
 
-![screenshot](./app_screenshot.png)
-
-![Database schema](./database_schema_diagram.png)
-
 Additional description about the project and its features.
 
 ## Built With
