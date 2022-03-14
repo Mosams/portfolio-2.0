@@ -1,4 +1,4 @@
-# Vet Clinic Database
+# Personal Portfolio with React
 
 > The project involves creating a relation database that contains several tables that interact with each other to create a vet clinic database.
 
