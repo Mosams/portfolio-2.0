@@ -20,7 +20,7 @@ Additional description about the project and its features.
   > in your cmd or command line navigate to where this project is located, then;
 
 ```cmd
-cd vet-clinic
+cd portfolio-2.0
 ```
 
 > thereafter run
@@ -29,13 +29,13 @@ cd vet-clinic
 code .
 ```
 
-## Authors
+## Author
 
 👤 **Mongare S.**
 
-- GitHub: [@githubhandle](https://github.com/Mosams/)
-- Twitter: [@twitterhandle](https://twitter.com/sam_mongare)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sammy-mongare-b8288310b/)
+- [@githubhandle](https://github.com/Mosams/)
+- [@twitterhandle](https://twitter.com/sam_mongare)
+- [LinkedIn](https://www.linkedin.com/in/sammy-mongare-b8288310b/)
 
 ## 🤝 Contributing
 
